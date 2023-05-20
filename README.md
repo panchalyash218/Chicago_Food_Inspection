@@ -11,7 +11,7 @@ Warehouse.
 ● Used PowerBI and Tableau to examine the data and display numerous KPIs from the Chicago Food Inspection.
 
 
-Power BI - https://app.powerbi.com/links/5yEKMvKqEi?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&pbi_source=linkShare
+Power BI - https://app.powerbi.com/view?r=eyJrIjoiN2MxMTVkMDAtMzkxMS00YTFhLWFkNzMtYWMyYjc3ZTUzMGExIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9&pageName=ReportSection 
 
 
 In this Data set - 2.53M Rows , 17 Columns , Each row has FOOd Inspections
